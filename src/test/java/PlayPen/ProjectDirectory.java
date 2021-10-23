@@ -3,7 +3,7 @@ package PlayPen;
 import org.junit.Test;
 
 public class ProjectDirectory {
-    //Test
+    //Testing
     @Test
     public void test()
     {
